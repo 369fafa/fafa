@@ -6,3 +6,4 @@ avatar
 venus
 magic
 best
+artist
