@@ -7,3 +7,4 @@ venus
 magic
 best
 artist
+turist
