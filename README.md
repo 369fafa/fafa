@@ -8,3 +8,4 @@ magic
 best
 artist
 turist
+miracle
