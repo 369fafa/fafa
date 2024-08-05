@@ -9,3 +9,4 @@ best
 artist
 turist
 miracle
+farnoosh
