@@ -10,3 +10,4 @@ artist
 turist
 miracle
 farnoosh
+photo
