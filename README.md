@@ -11,3 +11,4 @@ turist
 miracle
 farnoosh
 photo
+perfect
