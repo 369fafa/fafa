@@ -12,3 +12,4 @@ miracle
 farnoosh
 photo
 perfect
+pinco
