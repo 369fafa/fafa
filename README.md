@@ -13,3 +13,4 @@ farnoosh
 photo
 perfect
 pinco
+sea
