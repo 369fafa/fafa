@@ -16,3 +16,4 @@ pinco
 sea
 dolphine
 paint
+piramid
