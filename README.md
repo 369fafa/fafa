@@ -20,3 +20,4 @@ piramid
 ocean
 flower
 melina
+pinko
