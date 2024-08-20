@@ -22,3 +22,4 @@ flower
 melina
 pinko
 lucky
+power
