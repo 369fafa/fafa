@@ -23,3 +23,4 @@ melina
 pinko
 lucky
 power
+shelman
