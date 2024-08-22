@@ -24,3 +24,4 @@ pinko
 lucky
 power
 shelman
+scarlet
