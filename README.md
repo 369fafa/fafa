@@ -26,3 +26,4 @@ power
 shelman
 scarlet
 dady
+cute
