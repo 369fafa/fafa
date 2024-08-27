@@ -28,4 +28,5 @@ scarlet
 dady
 cute
 moon
+simple
 ئ
