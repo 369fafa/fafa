@@ -70,3 +70,4 @@ akash
 sima
 mahtab
 light
+piramid
