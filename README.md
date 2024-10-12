@@ -73,3 +73,4 @@ light
 piramid
 spring
 fariba
+pixel
