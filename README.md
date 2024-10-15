@@ -76,3 +76,4 @@ fariba
 pixel
 mahdiyar
 sunrise
+amazun
