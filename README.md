@@ -77,3 +77,4 @@ pixel
 mahdiyar
 sunrise
 amazun
+automn
