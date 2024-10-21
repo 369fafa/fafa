@@ -82,3 +82,4 @@ famila
 kamel
 fandogh
 peste
+badam
