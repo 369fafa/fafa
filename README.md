@@ -119,3 +119,4 @@ chain
 hiper
 oghab
 rihana
+firepower
