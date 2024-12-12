@@ -131,3 +131,4 @@ baraka
 elnaz
 ahoora
 ahooramazda
+merikh
